@@ -1,5 +1,6 @@
 # figma-make-app
 
+
 A React + Vite + Tailwind CSS application for Figma Make, ready to deploy to Vercel.
 
 ## Quick Start
